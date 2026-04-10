@@ -1,7 +1,7 @@
 # 🦅 Vult-Spoofer: Advanced HWID Management & Anti-Ban Utility
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Batch-Script-orange?style=for-the-badge&logo=windows&logoColor=white" alt="Batch">
+  <img src="https://img.shields.io/badge/Batch-Script-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Batch">
   <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge" alt="Maintained">
 </p>
